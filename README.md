@@ -1,0 +1,1 @@
+# Euler-Chess-Sliders-problem
